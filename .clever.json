@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_301f46ac-4d48-4d8d-9336-6aaf1c8f2b62",
+      "org_id": "user_bc183a52-c908-4a12-a882-92a52270582f",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_301f46ac-4d48-4d8d-9336-6aaf1c8f2b62.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_301f46ac-4d48-4d8d-9336-6aaf1c8f2b62.git",
+      "name": "[db-mascotas]",
+      "alias": "db-mascotas"
+    }
+  ]
+}
